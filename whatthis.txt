@@ -1,0 +1,52 @@
+Welcome to Karen's USB of Awesomeness!
+
+You're probably wondering what this is all about. Well, let me tell you - you've just been "hacked" by Karen, a cybersecurity superhero who's on a mission to educate people about the dangers of plugging in unknown USBs.
+
+But don't worry, this isn't a real hack. It's a fun and interactive way to learn about cybersecurity and coding. And who knows, it might just inspire you to start coding and creating your own projects!
+
+So, what's the deal with unknown USBs?
+
+Plugging in unknown USBs can be super risky. It's like eating a mysterious taco on the street - you never know what you might get. Malware, viruses, and hackers can easily spread through USBs, and before you know it, your computer is compromised.
+
+But don't worry, Karen's got your back!
+
+Karen's USB stick is a fun way to learn about cybersecurity and coding. And the best part? You can create your own USB stick like this one! Imagine spreading the word about cybersecurity and inspiring others to start coding.
+
+So, what do you say? Are you ready to join the coding revolution?
+
+Here are some steps to get you started:
+
+    Learn the basics of coding (there are tons of online resources out there!)
+    Create your own USB stick with a fun message or project
+    Spread the word about cybersecurity and coding by sharing your USB stick with others
+
+But wait, there's more!
+
+Take this USB stick and spread the word about cybersecurity in another city or town. Share it with friends, family, or even strangers. Who knows, you might just inspire someone to start coding and create their own USB stick. And before you know it, you'll have a whole army of coders and cybersecurity superheroes out there making the world a safer and more awesome place!
+
+Cybersecurity Tips to Avoid Malware and Viruses from Unknown USBs
+
+Hackers can use USB sticks to infect your computers with malware that can detect when you plug in the USB drive and then download malicious code. This can lead to serious consequences, including ransomware attacks that can lock you out of your computer and spread to other devices on the network.
+
+Social Engineering and HID Spoofing
+
+Hackers use social engineering tactics to trick you into plugging in unknown USB drives, which can then register as a Human Interface Device (HID) keyboard and inject keystrokes to place malware on your computer. This can lead to the deployment of ransomware on the compromised network.
+
+How to Protect Your Data from Malicious USB Drives
+Never Use Unknown USB Sticks
+
+Avoid plugging in unknown USB drives into your computer. If you receive an unexpected USB drive, report it to the authorities.
+Install Anti-Malware Software and Keep it Updated
+
+Install anti-malware software and keep it updated to protect your computer from malware and viruses.
+
+How to Avoid USB Attacks
+Don't Plug In Unknown Drives
+
+Don't plug in unknown USB drives, especially if you find them in public places or receive them unsolicited in the mail. This can prevent USB threats that rely on social engineering tactics.
+
+Take Action!
+
+Take this USB stick and spread the word about cybersecurity in another city or town. Share it with friends, family, or even strangers. Who knows, you might just inspire someone to start coding and create their own USB stick.
+
+Remember, it's always better to be safe than sorry when it comes to cybersecurity. Be cautious when dealing with unknown USB drives, and take steps to protect your computer and data from malware and viruses.
