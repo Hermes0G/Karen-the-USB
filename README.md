@@ -1,6 +1,8 @@
 **Karen's USB of Doom: The Ultimate Cybersecurity Prank**
 ============================================================
 
+ONLY FOT YOUR OWN PC! I DONT SUPPORT ILLEGAL ACTIONS!
+
 ** Warning: Plugging in unknown USBs can be hazardous to your computer's health! **
 
 **Why you shouldn't plug in unknown USBs:**
