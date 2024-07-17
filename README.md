@@ -30,6 +30,20 @@ To make the prank even more convincing, we've included an `autorun.inf` file tha
 
 By using Karen's USB of Doom, you'll not only learn about the dangers of unknown USBs, but you'll also be motivated to take control of your digital life. Learning to code is like having a superpower - you'll be able to create, innovate, and protect yourself from cyber threats. So, what are you waiting for? Start coding today and join the league of cybersecurity superheroes!
 
+**The Challenge:**
+
+Now that you've been pranked, we challenge you to spread the word about cybersecurity awareness! Take a photo of your USB drive with a funny caption, and post it on social media with the hashtag #KarenTheUSB. We want to see your creative take on this prank!
+
+**Want more?**
+
+Want to create your own custom Karen's USB of Doom? Follow these simple steps:
+
+1. Grab an old USB drive and format it.
+2. Download the `karen.bat` script and `autorun.inf` file from this repository.
+3. Copy the files to your USB drive.
+4. Customize the script to fit your style and branding.
+5. Plug in the USB drive and watch the magic happen!
+
 **Contributing:**
 
 Want to help make Karen's USB of Doom even more awesome? Contributions are welcome! Fork this repository, make your changes, and submit a pull request. Let's work together to create a more cyber-aware world.
