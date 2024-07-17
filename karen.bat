@@ -35,7 +35,7 @@ echo.
 pause
 echo.
 echo Now, go forth and learn to code like a boss!
-start https://github.com/your-username/karen-the-usb
+start https://github.com/HERMES0G/karen-the-usb
 timeout /t 10
 echo.
 echo You've been Rickrolled also bro!
